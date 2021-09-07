@@ -13,6 +13,7 @@ Solo a modo de aclaración, para lo relacionado con GitHub solamente **será nec
 - **JDK**, en su `versión jdk1.8.0_301` para el caso del tutorial, o lo que es lo mismo, `jdk-8u301`. También funcionaría para la versión 7. No resulta necesario establecer las variables de entorno.
 - **Eclipse IDE for Enterprise Java and Web Developers**, en su `versión 2021-06 (4.20.0)` y con `Build id: 20210612-2011`. Esta modalidad de Eclipse ya trae incluido Maven. Durante el tutorial se mantendrá configurado lo de por defecto, que es, la versión `16` en `Preferences > Java > Compiler`, y el JRE dispuesto por defecto en `Preferences > Java > Installed JREs` (aunque también se podrá añadir (a través del botón `Search`) y seleccionar el respectivo JDK necesariamente previamente instalado).
 - No será necesario instalar Maven externamente si se utiliza ese Eclipse, puesto que ya lo trae. Aún así, igualmente para usar Maven se requeriría de `JDK 1.7 o posterior`. Tampoco sería necesario establecer las variables de entorno de Maven.
+- Aunque para el caso de este tutorial no haga falta establecer las variables de entorno, se invita a que igualmente se establezcan para evitar problemas futuros.
 
 ***
 
